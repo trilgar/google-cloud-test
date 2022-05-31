@@ -1,0 +1,5 @@
+container:
+  name: google-cloud-test
+  image: trilgar/gct
+  port: 8080
+replicas: 2
